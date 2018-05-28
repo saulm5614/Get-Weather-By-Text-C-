@@ -18,7 +18,9 @@ After you have set up Gmail API and you have the "client_secret.jason" file in t
 For sending the reply email i used SMTP Gmail Client. So in the GetWeather.cs file where it say's in the code YourGmailAddress replace with your email address and YourPassword replace with your Gmail Password and Name replace with your gmail name.
 
 
-I used a physical path to save the weather in a file so you need to change it to your path 
+I used a physical path to save the weather in a file so you need to change it to your path.
+
+Then you can Build it end Run it.
 
 <h4><b>Additional Info</b></h4>
 <ul>
