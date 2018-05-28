@@ -1,0 +1,8 @@
+Fri
+JUN 1
+AM Showers
+Temp: 76 67 
+Wind: SE 9 mph 
+RainPossibility: 50%
+Humidity: 79%
+

@@ -1,0 +1,8 @@
+Thu
+MAY 31
+Light Rain
+Temp: 67 64 
+Wind: ESE 10 mph 
+RainPossibility: 90%
+Humidity: 82%
+

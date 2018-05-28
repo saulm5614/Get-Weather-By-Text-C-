@@ -1,0 +1,8 @@
+Wed
+MAY 30
+Cloudy
+Temp: 65 59 
+Wind: E 13 mph 
+RainPossibility: 20%
+Humidity: 80%
+
